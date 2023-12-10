@@ -5,3 +5,5 @@ Consiste em um projeto parecido com o Pomodoro, para ajudar nos estudos e concen
 ## O que foi Aprendido?
 Foi Desenvolvido para fins de aprendizado, onde pude ter contato com Zod, React Hook Form, Vite, TypesCript, useReducer.
 
+link Vercel: obs: O layout só está adaptado a Computadores. 
+https://project-timer-woad.vercel.app/
